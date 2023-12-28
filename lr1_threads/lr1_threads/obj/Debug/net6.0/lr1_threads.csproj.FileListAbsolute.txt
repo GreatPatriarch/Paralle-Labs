@@ -1,0 +1,15 @@
+F:\visual studio\zadania\paralel\lr1_threads\lr1_threads\bin\Debug\net6.0\lr1_threads.exe
+F:\visual studio\zadania\paralel\lr1_threads\lr1_threads\bin\Debug\net6.0\lr1_threads.deps.json
+F:\visual studio\zadania\paralel\lr1_threads\lr1_threads\bin\Debug\net6.0\lr1_threads.runtimeconfig.json
+F:\visual studio\zadania\paralel\lr1_threads\lr1_threads\bin\Debug\net6.0\lr1_threads.dll
+F:\visual studio\zadania\paralel\lr1_threads\lr1_threads\bin\Debug\net6.0\lr1_threads.pdb
+F:\visual studio\zadania\paralel\lr1_threads\lr1_threads\obj\Debug\net6.0\lr1_threads.csproj.AssemblyReference.cache
+F:\visual studio\zadania\paralel\lr1_threads\lr1_threads\obj\Debug\net6.0\lr1_threads.GeneratedMSBuildEditorConfig.editorconfig
+F:\visual studio\zadania\paralel\lr1_threads\lr1_threads\obj\Debug\net6.0\lr1_threads.AssemblyInfoInputs.cache
+F:\visual studio\zadania\paralel\lr1_threads\lr1_threads\obj\Debug\net6.0\lr1_threads.AssemblyInfo.cs
+F:\visual studio\zadania\paralel\lr1_threads\lr1_threads\obj\Debug\net6.0\lr1_threads.csproj.CoreCompileInputs.cache
+F:\visual studio\zadania\paralel\lr1_threads\lr1_threads\obj\Debug\net6.0\lr1_threads.dll
+F:\visual studio\zadania\paralel\lr1_threads\lr1_threads\obj\Debug\net6.0\refint\lr1_threads.dll
+F:\visual studio\zadania\paralel\lr1_threads\lr1_threads\obj\Debug\net6.0\lr1_threads.pdb
+F:\visual studio\zadania\paralel\lr1_threads\lr1_threads\obj\Debug\net6.0\lr1_threads.genruntimeconfig.cache
+F:\visual studio\zadania\paralel\lr1_threads\lr1_threads\obj\Debug\net6.0\ref\lr1_threads.dll

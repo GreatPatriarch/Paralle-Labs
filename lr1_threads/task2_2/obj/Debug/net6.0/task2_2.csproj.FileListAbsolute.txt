@@ -1,0 +1,15 @@
+F:\visual studio\zadania\paralel\lr1_threads\task2_2\bin\Debug\net6.0\task2_2.exe
+F:\visual studio\zadania\paralel\lr1_threads\task2_2\bin\Debug\net6.0\task2_2.deps.json
+F:\visual studio\zadania\paralel\lr1_threads\task2_2\bin\Debug\net6.0\task2_2.runtimeconfig.json
+F:\visual studio\zadania\paralel\lr1_threads\task2_2\bin\Debug\net6.0\task2_2.dll
+F:\visual studio\zadania\paralel\lr1_threads\task2_2\bin\Debug\net6.0\task2_2.pdb
+F:\visual studio\zadania\paralel\lr1_threads\task2_2\obj\Debug\net6.0\task2_2.csproj.AssemblyReference.cache
+F:\visual studio\zadania\paralel\lr1_threads\task2_2\obj\Debug\net6.0\task2_2.GeneratedMSBuildEditorConfig.editorconfig
+F:\visual studio\zadania\paralel\lr1_threads\task2_2\obj\Debug\net6.0\task2_2.AssemblyInfoInputs.cache
+F:\visual studio\zadania\paralel\lr1_threads\task2_2\obj\Debug\net6.0\task2_2.AssemblyInfo.cs
+F:\visual studio\zadania\paralel\lr1_threads\task2_2\obj\Debug\net6.0\task2_2.csproj.CoreCompileInputs.cache
+F:\visual studio\zadania\paralel\lr1_threads\task2_2\obj\Debug\net6.0\task2_2.dll
+F:\visual studio\zadania\paralel\lr1_threads\task2_2\obj\Debug\net6.0\refint\task2_2.dll
+F:\visual studio\zadania\paralel\lr1_threads\task2_2\obj\Debug\net6.0\task2_2.pdb
+F:\visual studio\zadania\paralel\lr1_threads\task2_2\obj\Debug\net6.0\task2_2.genruntimeconfig.cache
+F:\visual studio\zadania\paralel\lr1_threads\task2_2\obj\Debug\net6.0\ref\task2_2.dll

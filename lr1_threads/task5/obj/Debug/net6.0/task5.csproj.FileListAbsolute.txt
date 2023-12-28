@@ -1,0 +1,15 @@
+F:\visual studio\zadania\paralel\lr1_threads\task5\bin\Debug\net6.0\task5.exe
+F:\visual studio\zadania\paralel\lr1_threads\task5\bin\Debug\net6.0\task5.deps.json
+F:\visual studio\zadania\paralel\lr1_threads\task5\bin\Debug\net6.0\task5.runtimeconfig.json
+F:\visual studio\zadania\paralel\lr1_threads\task5\bin\Debug\net6.0\task5.dll
+F:\visual studio\zadania\paralel\lr1_threads\task5\bin\Debug\net6.0\task5.pdb
+F:\visual studio\zadania\paralel\lr1_threads\task5\obj\Debug\net6.0\task5.csproj.AssemblyReference.cache
+F:\visual studio\zadania\paralel\lr1_threads\task5\obj\Debug\net6.0\task5.GeneratedMSBuildEditorConfig.editorconfig
+F:\visual studio\zadania\paralel\lr1_threads\task5\obj\Debug\net6.0\task5.AssemblyInfoInputs.cache
+F:\visual studio\zadania\paralel\lr1_threads\task5\obj\Debug\net6.0\task5.AssemblyInfo.cs
+F:\visual studio\zadania\paralel\lr1_threads\task5\obj\Debug\net6.0\task5.csproj.CoreCompileInputs.cache
+F:\visual studio\zadania\paralel\lr1_threads\task5\obj\Debug\net6.0\task5.dll
+F:\visual studio\zadania\paralel\lr1_threads\task5\obj\Debug\net6.0\refint\task5.dll
+F:\visual studio\zadania\paralel\lr1_threads\task5\obj\Debug\net6.0\task5.pdb
+F:\visual studio\zadania\paralel\lr1_threads\task5\obj\Debug\net6.0\task5.genruntimeconfig.cache
+F:\visual studio\zadania\paralel\lr1_threads\task5\obj\Debug\net6.0\ref\task5.dll
